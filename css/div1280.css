@@ -1,0 +1,35 @@
+﻿#tableDiv
+{
+	width:560px;
+}
+.centering
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:1024px;
+}
+.mainTableDiv
+{
+	display:table; 
+	margin:0px;
+	padding:0px;
+	border:0px;
+	border-collapse:collapse;
+	width:1024px;
+}
+.divCenter
+{
+display:table-cell;
+width:564px;
+background-color:#f6f6f6;
+}
+.main-left-col
+{
+	display:table-cell;
+	background-color:#81292A;
+	width:210px;
+}
+#news-container
+{
+	width:245px;
+}

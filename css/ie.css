@@ -1,0 +1,132 @@
+﻿.manuBar
+{
+	height: 37px !important;
+}
+.centering
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:1024px;
+}
+.main-left-col
+{
+	display:table-cell;
+	background-color:#81292A;
+	width:210px;
+}
+.main-right-col
+{
+	display:table-cell;
+}
+ul.tabs
+{
+    padding: 6px 0 !important;
+}
+.mainTableDiv
+{
+	display:table; 
+	margin:0px;
+	padding:0px;
+	border:0px;
+	border-collapse:collapse;
+	width:1024px;
+}
+.divCenter
+{
+display:table-cell;
+width:564px;
+background-color:#f6f6f6;
+}
+/* Slide show*/
+.timer { display: none !important; }
+div.caption { background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);zoom: 1; }
+div.slider-nav span.right, div.slider-nav span.left { display: none !important; }
+hr
+{
+	border: 0;
+    height: 0;
+    border-top: 1px solid #c1c1c1;
+}
+#opsirnije
+{
+	text-align:right;
+	 width:100%;
+}
+/*
+#pozadinaHeder
+{
+	width:1024px;
+	background-image:url('../img-header/1000.gif'); 
+	background-repeat:no-repeat; 
+	background-color:#fff;
+	height:227px;
+}	
+
+#pozadinaHeder table
+{
+	margin-left:205px;
+}
+
+.slider
+{
+	padding-top:36px; 
+	padding-right:35px; 
+	padding-left:13px;
+}
+.slider img
+{
+	border:0px;
+}
+
+.logo img/* haccp i iso
+{
+	vertical-align: top;
+	margin-top: 5px;
+	margin-bottom: 140px;
+	width:80%;
+	height:80%;
+}
+
+.korakIspred 
+{
+	padding-top:75px;
+	width:210px;
+	color: #CCCCCC;
+	font-size: 40px;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-style: italic;
+	padding-right:95px;
+}
+*/
+/*pretraga za rezoluciju 800
+.pretraga800
+{
+	display:none;
+}
+*/
+
+/*
+.futer
+{
+	text-align:left;
+	padding-left:0px;
+	display:table;
+}
+.futer img
+{
+	border:0px;
+}
+.copyright {
+	margin-top: 50px;
+	margin-left: 800px;
+	padding-right: 25px;
+	text-align: justify;
+	color:#fff;
+}
+
+.copyright800
+{
+	display:none;
+}
+*/

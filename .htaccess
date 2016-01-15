@@ -1,0 +1,130 @@
+# Redirect old file path to new file path
+Redirect /o_nama/ /o_nama.php
+Redirect /onama.php /o_nama.php
+Redirect /o_nama/index.php /o_nama.php
+Redirect /o_nama/sertifikati.php /o_nama.php
+Redirect /o_nama/priznanja.php /o_nama.php
+Redirect /pcentri.php /profitnicentri.php
+Redirect /boksit.php /rudarstvo.php
+Redirect /ekonom.php /komercijalniposlovi.php
+Redirect /hrana.php /proizvodnjahrane.php
+Redirect /pravniposlovi.php /index.php
+Redirect /informacije.php /o_nama.php
+Redirect /novosti/ /novosti.php
+Redirect /novosti/index.php /novosti.php
+Redirect /ponuda/drvo.php /drvoprerada.php
+Redirect /ponuda/kineskiprogram.php /komercijalniposlovi.php
+Redirect /ponuda/veletrgovina.php /komercijalniposlovi.php
+Redirect /ponuda/saobracaj.php /saobracaj.php
+Redirect /ponuda/ugostiteljstvo.php /ugostiteljstvo.php
+Redirect /ponuda/informisanje.php /o_nama.php
+Redirect /ponuda/oprema.php /oprema.php
+Redirect /potraznja/ /potraznja.php
+Redirect /potraznja/index.php /potraznja.php
+Redirect /kontakt/index.php /kontakt.php
+Redirect /kontakt/ /kontakt.php
+Redirect /kontakt/direketor.php /kontakt.php
+Redirect /tehnicki.php /komercijalniposlovi.php#o_sektoru
+# Lijevi meni link
+Redirect /rudarstvo/ruda-boksit /rudarstvo.php#ruda-boksit
+Redirect /rudarstvo/ponuda-kvarcni-pijesak /rudarstvo.php#ponuda-kvarcni-pijesak
+Redirect /gradjevinarstvo/betonska-galanterija /gradjevinarstvo.php#betonska-galanterija
+Redirect /gradjevinarstvo/metalna-galanterija /gradjevinarstvo.php#metalna-galanterija
+Redirect /gradjevinarstvo/betonska-galanterija /gradjevinarstvo.php#betonska-galanterija
+Redirect /gradjevinarstvo/betonska-galanterija /gradjevinarstvo.php#betonska-galanterija
+Redirect /gradjevinarstvo/alu-stolarija /gradjevinarstvo.php#alu-stolarija
+Redirect /gradjevinarstvo/montaza-solarnih-kolektora /gradjevinarstvo.php#montaza-solarnih-kolektora
+Redirect /drvoprerada/rezana-gradja /drvoprerada.php#rezana-gradja
+Redirect /drvoprerada/parket /drvoprerada.php#parket
+Redirect /drvoprerada/masivni-podovi /drvoprerada.php#masivni-podovi
+Redirect /drvoprerada/masivne-ploce /drvoprerada.php#masivne-ploce
+Redirect /drvoprerada/masivni-namjestaj /drvoprerada.php#masivni-namjestaj
+Redirect /drvoprerada/briketi /drvoprerada.php#briketi
+Redirect /komercijalniposlovi/rg-mehanizacija /komercijalniposlovi.php#rg-mehanizacija
+Redirect /komercijalniposlovi/busaci-pribor /komercijalniposlovi.php#busaci-pribor
+Redirect /komercijalniposlovi/gc-power /komercijalniposlovi.php#gc-power
+Redirect /komercijalniposlovi/shantui /komercijalniposlovi.php#shantui
+Redirect /komercijalniposlovi/solarni-paneli-kolektori /komercijalniposlovi.php#solarni-paneli-kolektori
+Redirect /komercijalniposlovi/pumpe-ventilatori /komercijalniposlovi.php#pumpe-ventilatori
+Redirect /komercijalniposlovi/shacman /komercijalniposlovi.php#shacman
+Redirect /komercijalniposlovi/sinotruk /komercijalniposlovi.php#sinotruk
+Redirect /komercijalniposlovi/king-long /komercijalniposlovi.php#king-long
+Redirect /komercijalniposlovi/elektricni-aparati /komercijalniposlovi.php#elektricni-aparati
+Redirect /komercijalniposlovi/elektricni-aparati /komercijalniposlovi.php#elektricni-aparati
+Redirect /komercijalniposlovi/protektirane-gume /komercijalniposlovi.php#protektirane-gume 
+Redirect /komercijalniposlovi/gume /komercijalniposlovi.php#gume
+Redirect /komercijalniposlovi/roba /komercijalniposlovi.php#roba
+Redirect /komercijalniposlovi/agregati-i-kompresori /komercijalniposlovi.php#agregati-i-kompresori
+Redirect /komercijalniposlovi/zalivni-sistemi /komercijalniposlovi.php#zalivni-sistemi
+Redirect /komercijalniposlovi/silosi /komercijalniposlovi.php#silosi
+Redirect /komercijalniposlovi/gasne-turbine /komercijalniposlovi.php#gasne-turbine
+Redirect /komercijalniposlovi/al-uzad /komercijalniposlovi.php#al-uzad
+Redirect /komercijalniposlovi/el-kablovi /komercijalniposlovi.php#el-kablovi
+Redirect /komercijalniposlovi/ravni-lim /komercijalniposlovi.php#ravni-lim
+Redirect /komercijalniposlovi/mreze-gradjevinarstvo /komercijalniposlovi.php#mreze-gradjevinarstvo
+Redirect /komercijalniposlovi/betonska-galanterija /komercijalniposlovi.php#betonska-galanterija
+Redirect /komercijalniposlovi/metalna-galanterija /komercijalniposlovi.php#metalna-galanterija
+Redirect /komercijalniposlovi/mlijecni-proizvodi /komercijalniposlovi.php#mlijecni-proizvodi
+Redirect /komercijalniposlovi/alu-stolarija /komercijalniposlovi.php#alu-stolarija
+Redirect /komercijalniposlovi/goriva /komercijalniposlovi.php#goriva
+Redirect /komercijalniposlovi/papirna-ambalaza /komercijalniposlovi.php#papirna-ambalaza
+Redirect /ugostiteljstvo/svjeza-riba /ugostiteljstvo.php#svjeza-riba
+Redirect /ugostiteljstvo/boksit-turs /ugostiteljstvo.php#boksit-turs
+Redirect /ugostiteljstvo/robna-kuca /komercijalniposlovi.php#robna-kuca
+Redirect /rudarstvo/usluge-rg-mehanizacije /rudarstvo.php#usluge-rg-mehanizacije
+Redirect /rudarstvo/usluge-rg-odrzavanje /rudarstvo.php#usluge-rg-odrzavanje
+Redirect /rudarstvo/usluge-odvage /rudarstvo.php#usluge-odvage
+Redirect /saobracaj/prevoz-robe  /saobracaj.php#prevoz-robe 
+Redirect /saobracaj/prevoz-putnika /saobracaj.php#prevoz-putnika 
+Redirect /saobracaj/protektirane-gume /saobracaj.php#protektirane-gume 
+Redirect /saobracaj/servis-vozila /saobracaj.php#servis-vozila
+Redirect /saobracaj/auto-skola /saobracaj.php#auto-skola
+Redirect /komercijalniposlovi/tehnicki-pregled /komercijalniposlovi.php#tehnicki-pregled
+Redirect /komercijalniposlovi/sertifikacija-vozila /komercijalniposlovi.php#sertifikacija-vozila
+Redirect /gradjevinarstvo/gradjevinarstvo /gradjevinarstvo.php#gradjevinarstvo
+Redirect /gradjevinarstvo/masinstvo /gradjevinarstvo.php#masinstvo
+Redirect /gradjevinarstvo/elektrotehnika /gradjevinarstvo.php#elektrotehnika
+Redirect /gradjevinarstvo/hidraulicna-presa /gradjevinarstvo.php#hidraulicna-presa
+Redirect /drvoprerada/usluge-drvoprerada /drvoprerada.php#usluge-drvoprerada
+Redirect /oprema/susenje-voca /oprema.php#susenje-voca
+Redirect /oprema/masina-sipke /oprema.php#masina-sipke
+Redirect /oprema/kalibracija-sipki /oprema.php#kalibracija-sipki
+Redirect /oprema/varenje-mreze /oprema.php#varenje-mreze
+Redirect /oprema/masina-fert-gredice /oprema.php#masina-fert-gredice
+Redirect /oprema/elektro-bager /oprema.php#elektro-bager
+Redirect /oprema/jamska-lokomotiva /oprema.php#jamska-lokomotiva
+
+
+AddType application/octet-stream .pdf
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteRule    ^katalog/proizvod/([A-Za-z0-9'\.&@:?!()$#_-]+)/?$    /katalog/detaljnije.php?id=$1    [NC,L]    # Process parrots
+RewriteRule ^rudarstvo.php#ruda-boksit$ /ruda-boksit [R=301,L]
+</IfModule>
+
+<IfModule mod_expires.c>
+
+# Enable expirations
+ExpiresActive On 
+
+# Default directive
+ExpiresDefault "access plus 1 month"
+
+# Images
+ExpiresByType image/gif "access plus 1 month"
+ExpiresByType image/png "access plus 6 month"
+ExpiresByType image/jpg "access plus 6 month"
+ExpiresByType image/jpeg "access plus 6 month"
+ExpiresByType application/pdf "access plus 1 week"
+
+# CSS
+ExpiresByType text/css "access 1 month”
+
+# Javascript
+ExpiresByType application/javascript "access plus 6 month"
+
+</IfModule>
+
+ErrorDocument 404 /404.php

@@ -1,0 +1,13 @@
+ALTER TABLE vijesti ADD FULLTEXT fulltext_naslov(Naslov)
+
+SELECT * FROM `vijesti2` WHERE MATCH(Naslov, VijestiText) AGAINST ('rudarstvo')
+MATCH(title, body) AGAINST ('PHP')
+
+
+SELECT *, MATCH(Naslov, VijestiText) AGAINST ('rudarstvo') AS score FROM `vijesti2` WHERE MATCH(Naslov, VijestiText) AGAINST  ('rudarstvo')
+
+
+"SELECT vijesti.ID, vijesti.Naslov, vijesti.VijestiText, AID
+						
+						FROM vijesti, kategorije, vijestiprovjera  
+						WHERE MATCH(Naslov, VijestiText) AGAINST ('%$rijeciPretrage%')"

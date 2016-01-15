@@ -1,0 +1,19 @@
+
+easing.js				dio back to top javascripta
+jquery.ui.totop.js 			back to top skirpta
+jquery.easytabs.min.js			tabovi- koristi se puna verzija, ne mini
+jquery.easytabs.js			tabovi
+jquery.hashchange.min.js		tabovi, promjena taba iz head menija
+
+jquery.orbit-1.2.3.js			Orbit slide show- slide show na vrhu svake strane
+jquery.vticker.js			scroll vijesti na desnoj strani
+jquery.emailSpamProtection.1.0		zaštita od spama
+
+jquery.validationEngine.js		validacija forme
+jquery.validationEngine-en.js		jezik js validacije forme-prepravljeno na srpski
+jVal.js					validacija- ne koristi se
+tabcontent.js-ne koristi se.js		tabcontent- pokušavam da se riješim ovog, 
+					linkovi ne rade dobro
+jquery.collapsible.js			lijevi meni- raširiti i skupiti stavke
+jquery.cookie.js			kukiji za lijevi meni- da pamti šta je otvoreno, a šta nije
+tab-.php				ne koristi se. dodaje strelicu na izabrani proizvod

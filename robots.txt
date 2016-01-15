@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cmssys/
+Disallow: /php_funkcije.inc
+Disallow: /katalog/
+Disallow: /php_session.php
+

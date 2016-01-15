@@ -1,0 +1,137 @@
+﻿#tableDiv
+{
+	width:560px;
+}
+.mainTableDiv
+{
+	display:table; 
+	margin:0px;
+	padding:0px;
+	border:0px;
+	border-collapse:collapse;
+	width:760px;
+}
+
+.divCenter
+{
+display:table-cell;
+width:564px;
+background-color:#f6f6f6;
+}
+.main-left-col
+{
+	display:table-cell;
+	background-color:#81292A;
+	max-width:210px;
+	min-width:210px;
+}
+.main-right-col
+{
+	display:none;
+}
+
+td.nakraju 
+{
+	display:none;
+}
+/*HEDER
+.logo
+{
+	display:none;
+}
+.kompanija-heder
+{
+	display:none;
+}*/
+#sert-head img, #download-prospekt img, #footer-image img, #footer-image
+{
+	display:none;
+}
+ #header-1st-line, #header-2nd-line
+ {
+	display:absolute;
+	width:775px;
+ }
+#footer
+{
+	width:775px;
+	position:absolute;
+}
+#slogan2
+{
+	height:25px;
+}
+/*
+ #header-2nd-line
+{
+	position:absolute;
+}
+ #download-prospekt, #sert-head img
+{
+	display:none;
+}
+
+
+#slogan2
+{
+
+}
+#kom-bok
+{
+	padding-left:210px;
+}
+
+*/
+/*
+#pozadinaHeder
+{
+	
+	background-image:url('../img-header/800.gif');
+	background-repeat:no-repeat; 
+	background-color:#fff;
+	height:224px;
+}
+
+#pozadinaHeder table
+{
+	
+}
+
+.slider
+{
+	padding-top:94px; 
+	padding-right:0px; 
+	padding-left:215px;
+}
+
+
+.korakIspred
+{
+	display:none;
+}
+
+.pretraga
+{
+	display:none;
+}
+
+.slide
+{
+
+	vertical-align:top;
+	background-position:bottom;
+	z-index:100;
+	padding-top:75px;
+	padding-left:210px;
+	padding-bottom:5px;
+		
+}*/
+/*FOOTER*/
+
+.futer{
+	width:800px;
+	height:350px;
+}
+
+
+

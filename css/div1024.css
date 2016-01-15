@@ -1,0 +1,94 @@
+﻿#tableDiv
+{
+	width:560px;
+}
+.centering
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+.mainTableDiv
+{
+	display:table; 
+	margin:0px;
+	padding:0px;
+	border:0px;
+	border-collapse:collapse;
+}
+.divCenter
+{
+display:table-cell;
+width:564px;
+background-color:#f6f6f6;
+}
+.main-left-col
+{
+	display:table-cell;
+	background-color:#81292A;
+	width:210px;
+}
+.main-righ-col
+{
+	width:210px;
+}
+#pozadinaHeder
+{
+	width:100%;
+}
+#sert-head img	
+{
+	width:230px;
+}
+#news-container
+{
+	width:210px;
+}
+#download-prospekt
+{
+	position:absolute;
+}
+
+/*
+.slider
+{
+	padding-top:36px; 
+	padding-right:30px; 
+	padding-left:215px;
+}
+
+.slide
+{
+
+	vertical-align:top;
+	background-position:bottom;
+	z-index:100;
+	padding-top:75px;
+	padding-left:5px;
+	padding-bottom:5px;	
+}
+
+
+
+.korakIspred {
+	padding-top:70px;
+	color: #CCCCCC;
+	font-size: 40px;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-style: italic;
+}
+
+/*pretraga za rezoluciju 800
+.pretraga800
+{
+	display:none;
+}
+
+
+/*FOOTER
+.futer
+{
+	width:100%;
+}
+*/
